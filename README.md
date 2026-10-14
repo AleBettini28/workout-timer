@@ -30,4 +30,4 @@ Lo script esegue `build` e pubblica la cartella `dist` sul branch `gh-pages`.
 
 Poi su GitHub: **Settings -> Pages -> Source** = branch `gh-pages` (root).
 
-URL: https://AleBettini28.github.io/workout-timer/
+URL: https://workout-timer.alebettini.com/
